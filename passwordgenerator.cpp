@@ -17,4 +17,5 @@ int main(){
 		cout << alphanum[rand() % string_length];
 	}
 	return 0;
+	system("pause");
 }
